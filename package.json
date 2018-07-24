@@ -1,0 +1,22 @@
+{
+  "name": "particlebackground",
+  "version": "1.0.0",
+  "description": "Playing with Canvas and Particle APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSandersius/ParticleBackground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSandersius/ParticleBackground/issues"
+  },
+  "homepage": "https://github.com/JSandersius/ParticleBackground#readme",
+  "dependencies": {
+    "particle.js": "^1.0.7"
+  }
+}
